@@ -1,0 +1,14 @@
+C:\Users\asusl\Desktop\derss\ilacuygulamasi\ilacuygulamasi\bin\Debug\net6.0\ilacuygulamasi.exe
+C:\Users\asusl\Desktop\derss\ilacuygulamasi\ilacuygulamasi\bin\Debug\net6.0\ilacuygulamasi.deps.json
+C:\Users\asusl\Desktop\derss\ilacuygulamasi\ilacuygulamasi\bin\Debug\net6.0\ilacuygulamasi.runtimeconfig.json
+C:\Users\asusl\Desktop\derss\ilacuygulamasi\ilacuygulamasi\bin\Debug\net6.0\ilacuygulamasi.dll
+C:\Users\asusl\Desktop\derss\ilacuygulamasi\ilacuygulamasi\bin\Debug\net6.0\ilacuygulamasi.pdb
+C:\Users\asusl\Desktop\derss\ilacuygulamasi\ilacuygulamasi\obj\Debug\net6.0\ilacuygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asusl\Desktop\derss\ilacuygulamasi\ilacuygulamasi\obj\Debug\net6.0\ilacuygulamasi.AssemblyInfoInputs.cache
+C:\Users\asusl\Desktop\derss\ilacuygulamasi\ilacuygulamasi\obj\Debug\net6.0\ilacuygulamasi.AssemblyInfo.cs
+C:\Users\asusl\Desktop\derss\ilacuygulamasi\ilacuygulamasi\obj\Debug\net6.0\ilacuygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\asusl\Desktop\derss\ilacuygulamasi\ilacuygulamasi\obj\Debug\net6.0\ilacuygulamasi.dll
+C:\Users\asusl\Desktop\derss\ilacuygulamasi\ilacuygulamasi\obj\Debug\net6.0\refint\ilacuygulamasi.dll
+C:\Users\asusl\Desktop\derss\ilacuygulamasi\ilacuygulamasi\obj\Debug\net6.0\ilacuygulamasi.pdb
+C:\Users\asusl\Desktop\derss\ilacuygulamasi\ilacuygulamasi\obj\Debug\net6.0\ilacuygulamasi.genruntimeconfig.cache
+C:\Users\asusl\Desktop\derss\ilacuygulamasi\ilacuygulamasi\obj\Debug\net6.0\ref\ilacuygulamasi.dll
